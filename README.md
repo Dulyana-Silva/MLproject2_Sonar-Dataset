@@ -51,7 +51,7 @@ If a submarine thinks a mine is just a rock, it might strike the mine, leading t
 
 #### 3). Training & Testing Data.
 
-<img width="900" height="90" alt="image" src="https://github.com/user-attachments/assets/0e1f8d2c-e865-4ad1-9eda-537a9741d6b1" />
+<img width="900" height="100" alt="image" src="https://github.com/user-attachments/assets/0e1f8d2c-e865-4ad1-9eda-537a9741d6b1" />
 
 ---
 <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/9aa8461f-ccf7-46bf-a887-dd8f069c50e7" />
